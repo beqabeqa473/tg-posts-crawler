@@ -107,8 +107,9 @@ class Controller:
             if result is not None:
                 new_posts.append(result)
         self.log.info(f'Собрано {len(new_posts)} новых постов')
-        self.posts = new_posts + self.posts
-        self.save_data()
+        if new_posts:
+            self.posts = new_posts + self.posts
+            self.save_data()
 
 
 if __name__ == '__main__':
