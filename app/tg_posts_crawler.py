@@ -83,12 +83,12 @@ class Controller:
         if len(title) > 200:
             title = title[:199] + '…'
         data['title'] = title
-        data['text'] = text
+        data['text'] = '\n'.join(f'<p>{line}</p>' for line in text.html.split('\n'))
         data['tags'] = []
         for entity in post.entities or []:
             if entity.type is not pyrogram.enums.MessageEntityType.HASHTAG:
                 continue
-            tag = data['text'][entity.offset:entity.offset+entity.length]
+            tag = text[entity.offset:entity.offset+entity.length]
             if (tag_index := self.get_tag_index(tag)) is None:
                 tag_index = self.add_tag(tag)
             data['tags'].append(tag_index)
