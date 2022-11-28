@@ -112,7 +112,11 @@ class Controller:
 
 
 if __name__ == '__main__':
-    # import dotenv
-    # dotenv.load_dotenv()
+    # For debugging
+    try:
+        import dotenv
+        dotenv.load_dotenv()
+    except ImportError:
+        pass
     controller = Controller()
     asyncio.run(controller.start())
