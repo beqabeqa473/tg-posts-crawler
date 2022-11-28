@@ -61,12 +61,12 @@ class Controller:
 
     def get_tag_index(self, tag):
         try:
-            return self.tags.index(tag)
+            return self.tags.index(tag.lower())
         except ValueError:
             return
 
     def add_tag(self, tag):
-        self.tags.append(tag)
+        self.tags.append(tag.lower())
         return len(self.tags)-1
 
     def parse_post(self, post):
@@ -88,7 +88,6 @@ class Controller:
             if entity.type is not pyrogram.enums.MessageEntityType.HASHTAG:
                 continue
             tag = data['text'][entity.offset:entity.offset+entity.length]
-            print('tag', tag)
             if (tag_index := self.get_tag_index(tag)) is None:
                 tag_index = self.add_tag(tag)
             data['tags'].append(tag_index)
