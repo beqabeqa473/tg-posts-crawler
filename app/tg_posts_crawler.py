@@ -22,7 +22,7 @@ class Controller:
         self.pyrogram_session_string = os.environ['PYROGRAM_SESSION_STRING']
         self.channel_id = int(os.environ['CHANNEL_ID'])
         self.refresh_data = True if os.getenv('REFRESH_DATA') == 'true' else False
-        self.path_to_data = 'data/data.json'
+        self.path_to_data = 'data.json'
         self.posts = []
         self.tags = []
 
