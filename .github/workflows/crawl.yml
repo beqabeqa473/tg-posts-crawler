@@ -1,0 +1,43 @@
+name: Crawl posts from telegram channel
+
+on:
+  workflow_dispatch:
+    inputs:
+      refresh_data:
+        description: 'Refresh posts data'
+        default: false
+        type: boolean
+
+env:
+  PYROGRAM_SESSION_STRING: ${{ secrets.PyrogramSession }}
+  CHANNEL_ID: ${{ secrets.ChannelID }}
+  REFRESH_DATA: ${{ inputs.refresh_data }}
+
+jobs:
+  crawl_posts:
+    name: crawl_posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone.
+        uses: actions/checkout@v3
+
+      - name: Setup Python.
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies.
+        run: |
+          pip install -r app/requirements.txt
+
+      - name: Generate posts datastructure.
+        run: |
+          python app/tg_posts_crawler.py
+
+      - name: Commit and push changes.
+        run: |
+          git checkout data
+          git add .
+          git commit -am "Update data"
+          git push
