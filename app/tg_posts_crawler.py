@@ -32,7 +32,8 @@ class Controller:
             'telegram_account',
             session_string=self.pyrogram_session_string,
             in_memory=True,
-            no_updates=True
+            no_updates=True,
+            app_version='TG Posts Crawler',
         )
         await self.app.start()
         self.log.info('Клиент запущен')
