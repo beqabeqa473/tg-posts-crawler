@@ -25,6 +25,7 @@ class Controller:
         self.path_to_data = 'data.json'
         self.posts = []
         self.tags = []
+        self.channel_username = None
 
     async def initialize(self):
         self.log.info('Запуск pyrogram-клиента')
@@ -55,7 +56,11 @@ class Controller:
 
     def save_data(self):
         self.log.info('Выполняется сохранение данных')
-        data = {'posts': self.posts, 'tags': self.tags}
+        data = {
+            'channel_username': self.channel_username,
+            'posts': self.posts,
+            'tags': self.tags,
+        }
         with open(self.path_to_data, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
         self.log.info(f'Сохранено {len(self.posts)} постов и {len(self.tags)} тегов')
@@ -101,7 +106,7 @@ class Controller:
         self.log.info('Начат сбор новых постов')
         new_posts = []
         last_post_id = self.posts[0]['id'] if self.posts else 0
-        await self.app.get_chat(self.channel_id)
+        self.channel_username = (await self.app.get_chat(self.channel_id)).username
         async for post in self.app.get_chat_history(self.channel_id):
             if post.id <= last_post_id:
                 break
@@ -109,9 +114,8 @@ class Controller:
             if result is not None:
                 new_posts.append(result)
         self.log.info(f'Собрано {len(new_posts)} новых постов')
-        if new_posts:
-            self.posts = new_posts + self.posts
-            self.save_data()
+        self.posts = new_posts + self.posts
+        self.save_data()
 
 
 if __name__ == '__main__':
