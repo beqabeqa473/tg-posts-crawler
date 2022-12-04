@@ -102,7 +102,7 @@ class Controller:
             if (tag_id := self.get_tag_id(tag)) is None:
                 tag_id = self.add_tag(tag)
             data['tags'].append(tag_id)
-            data['text'] = data['text'].replace(tag, f'<a href="/tags/{tag_id}/>{tag}</a>', 1)
+            data['text'] = data['text'].replace(tag, f'<a href="/tags/{tag_id}">{tag}</a>', 1)
         return data
 
     async def start(self):
