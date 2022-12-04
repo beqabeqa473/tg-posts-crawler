@@ -65,15 +65,19 @@ class Controller:
             json.dump(data, f, ensure_ascii=False, indent=4)
         self.log.info(f'Сохранено {len(self.posts)} постов и {len(self.tags)} тегов')
 
-    def get_tag_index(self, tag):
-        try:
-            return self.tags.index(tag.lower())
-        except ValueError:
-            return
+    def get_tag_id(self, tag_name):
+        search_tag_name = tag_name.lower()
+        for tag in self.tags:
+            if tag['tag'].lower() == search_tag_name:
+                return tag['id']
 
-    def add_tag(self, tag):
-        self.tags.append(tag.lower())
-        return len(self.tags)-1
+    def add_tag(self, tag_name):
+        tag = {
+            'id': 1 if not self.tags else self.tags[-1]['id'] + 1,
+            'tag': tag_name
+        }
+        self.tags.append(tag)
+        return tag['id']
 
     def parse_post(self, post):
         self.log.info(f'Парсинг поста {post.id}')
@@ -95,10 +99,10 @@ class Controller:
             if entity.type is not pyrogram.enums.MessageEntityType.HASHTAG:
                 continue
             tag = text[entity.offset:entity.offset+entity.length]
-            if (tag_index := self.get_tag_index(tag)) is None:
-                tag_index = self.add_tag(tag)
-            data['tags'].append(tag_index)
-            data['text'] = data['text'].replace(tag, f'<a href="/tags/{tag_index}/>{tag}</a>', 1)
+            if (tag_id := self.get_tag_id(tag)) is None:
+                tag_id = self.add_tag(tag)
+            data['tags'].append(tag_id)
+            data['text'] = data['text'].replace(tag, f'<a href="/tags/{tag_id}/>{tag}</a>', 1)
         return data
 
     async def start(self):
