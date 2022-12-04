@@ -77,6 +77,7 @@ class Controller:
             'timestamp': int(post.date.timestamp()),
         }
         text = post.text or post.caption
+        entities = post.entities or post.caption_entities or []
         if not text:
             return
         title = text.split('\n', 1)[0]
@@ -85,7 +86,7 @@ class Controller:
         data['title'] = title
         data['text'] = '<br>\n'.join(f'<p>{line}</p>' for line in text.html.split('\n'))
         data['tags'] = []
-        for entity in post.entities or []:
+        for entity in entities:
             if entity.type is not pyrogram.enums.MessageEntityType.HASHTAG:
                 continue
             tag = text[entity.offset:entity.offset+entity.length]
