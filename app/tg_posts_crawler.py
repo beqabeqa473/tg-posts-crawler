@@ -92,6 +92,7 @@ class Controller:
             if (tag_index := self.get_tag_index(tag)) is None:
                 tag_index = self.add_tag(tag)
             data['tags'].append(tag_index)
+            data['text'] = data['text'].replace(tag, f'<a href="/tags/{tag_index}/>{tag}</a>', 1)
         return data
 
     async def start(self):
