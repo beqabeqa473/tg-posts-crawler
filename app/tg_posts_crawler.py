@@ -80,7 +80,7 @@ class Controller:
         return tag['id']
 
     def parse_post(self, post):
-        self.log.info(f'Парсинг поста {post.id}')
+        self.log.debug(f'Парсинг поста {post.id}')
         data = {
             'id': post.id,
             'timestamp': int(post.date.timestamp()),
