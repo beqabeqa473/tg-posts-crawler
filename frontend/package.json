@@ -1,5 +1,6 @@
 {
   "name": "tg-crawler-web",
+  "homepage": "https://beqabeqa473.github.io/tg-posts-crawler",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
