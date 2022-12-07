@@ -1,0 +1,2094 @@
+2022-12-07 16:59:27,197 - INFO - tg_posts_crawler.initialize (31)
+Запуск pyrogram-клиента
+2022-12-07 16:59:28,157 - INFO - tg_posts_crawler.initialize (40)
+Клиент запущен
+2022-12-07 16:59:28,157 - INFO - tg_posts_crawler.load_data (47)
+Выполняется загрузка данных
+2022-12-07 16:59:28,157 - INFO - tg_posts_crawler.load_data (49)
+Данные отсутствуют
+2022-12-07 16:59:28,157 - INFO - tg_posts_crawler.start (110)
+Начат сбор новых постов
+2022-12-07 16:59:29,915 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1071
+2022-12-07 16:59:29,915 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1070
+2022-12-07 16:59:29,915 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1069
+2022-12-07 16:59:29,916 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1068
+2022-12-07 16:59:29,916 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1067
+2022-12-07 16:59:29,916 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1066
+2022-12-07 16:59:29,916 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1065
+2022-12-07 16:59:29,916 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1064
+2022-12-07 16:59:29,916 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1063
+2022-12-07 16:59:29,916 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1062
+2022-12-07 16:59:29,916 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1061
+2022-12-07 16:59:29,916 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1060
+2022-12-07 16:59:29,916 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1059
+2022-12-07 16:59:29,930 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1058
+2022-12-07 16:59:29,930 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1056
+2022-12-07 16:59:29,930 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1055
+2022-12-07 16:59:29,930 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1054
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1053
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1052
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1051
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1050
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1049
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1048
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1047
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1046
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1044
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1041
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1040
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1039
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1038
+2022-12-07 16:59:29,931 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1037
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1036
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1035
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1034
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1033
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1032
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1031
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1030
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1029
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1028
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1027
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1026
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1025
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1024
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1023
+2022-12-07 16:59:29,932 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1022
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1021
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1020
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1019
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1018
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1017
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1016
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1015
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1014
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1013
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1012
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1011
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1010
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1009
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1008
+2022-12-07 16:59:29,933 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1007
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1006
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1005
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1004
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1003
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1002
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1001
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1000
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 999
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 998
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 997
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 996
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 995
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 994
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 993
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 992
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 991
+2022-12-07 16:59:29,934 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 990
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 989
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 988
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 987
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 986
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 985
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 984
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 983
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 982
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 981
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 980
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 979
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 978
+2022-12-07 16:59:29,935 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 977
+2022-12-07 16:59:29,936 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 976
+2022-12-07 16:59:29,936 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 975
+2022-12-07 16:59:29,936 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 974
+2022-12-07 16:59:29,936 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 973
+2022-12-07 16:59:29,936 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 972
+2022-12-07 16:59:29,936 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 971
+2022-12-07 16:59:29,936 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 970
+2022-12-07 16:59:29,936 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 969
+2022-12-07 16:59:29,936 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 968
+2022-12-07 16:59:31,228 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 967
+2022-12-07 16:59:31,228 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 966
+2022-12-07 16:59:31,228 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 965
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 964
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 963
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 962
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 961
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 960
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 959
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 958
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 957
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 956
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 955
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 954
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 953
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 952
+2022-12-07 16:59:31,229 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 951
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 950
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 949
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 948
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 947
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 946
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 944
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 943
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 942
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 941
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 940
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 939
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 938
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 937
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 936
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 935
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 934
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 933
+2022-12-07 16:59:31,230 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 932
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 931
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 930
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 929
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 928
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 927
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 926
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 924
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 923
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 922
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 921
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 920
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 919
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 918
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 917
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 916
+2022-12-07 16:59:31,231 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 915
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 914
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 913
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 912
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 911
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 910
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 909
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 908
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 907
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 906
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 905
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 904
+2022-12-07 16:59:31,232 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 903
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 902
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 901
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 900
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 899
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 898
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 897
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 896
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 895
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 894
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 893
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 892
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 891
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 890
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 889
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 888
+2022-12-07 16:59:31,233 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 887
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 886
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 885
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 884
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 883
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 882
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 881
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 880
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 879
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 878
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 877
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 876
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 875
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 874
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 873
+2022-12-07 16:59:31,234 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 872
+2022-12-07 16:59:31,235 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 871
+2022-12-07 16:59:31,235 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 870
+2022-12-07 16:59:31,235 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 869
+2022-12-07 16:59:31,235 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 868
+2022-12-07 16:59:31,235 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 867
+2022-12-07 16:59:31,235 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 866
+2022-12-07 16:59:32,124 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 865
+2022-12-07 16:59:32,124 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 864
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 863
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 862
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 861
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 860
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 859
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 858
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 857
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 856
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 855
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 854
+2022-12-07 16:59:32,125 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 853
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 852
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 851
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 850
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 849
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 848
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 847
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 846
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 845
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 844
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 843
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 842
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 841
+2022-12-07 16:59:32,126 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 840
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 839
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 838
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 837
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 836
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 835
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 834
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 833
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 832
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 831
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 830
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 829
+2022-12-07 16:59:32,127 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 828
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 827
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 826
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 825
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 824
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 823
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 822
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 821
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 820
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 819
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 818
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 817
+2022-12-07 16:59:32,128 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 816
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 815
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 814
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 813
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 812
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 811
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 810
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 809
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 808
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 807
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 806
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 805
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 803
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 802
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 801
+2022-12-07 16:59:32,129 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 800
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 799
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 798
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 797
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 796
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 795
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 794
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 793
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 792
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 791
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 790
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 789
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 788
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 787
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 786
+2022-12-07 16:59:32,130 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 785
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 784
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 783
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 782
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 781
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 780
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 779
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 778
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 777
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 776
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 775
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 774
+2022-12-07 16:59:32,131 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 773
+2022-12-07 16:59:32,132 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 772
+2022-12-07 16:59:32,132 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 771
+2022-12-07 16:59:32,132 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 770
+2022-12-07 16:59:32,132 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 769
+2022-12-07 16:59:32,132 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 768
+2022-12-07 16:59:32,132 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 767
+2022-12-07 16:59:32,132 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 766
+2022-12-07 16:59:32,132 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 765
+2022-12-07 16:59:33,070 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 764
+2022-12-07 16:59:33,070 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 763
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 762
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 761
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 760
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 759
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 758
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 757
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 756
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 755
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 754
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 753
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 752
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 751
+2022-12-07 16:59:33,071 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 750
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 749
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 748
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 747
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 746
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 745
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 744
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 743
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 742
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 741
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 740
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 739
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 738
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 737
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 736
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 735
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 734
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 733
+2022-12-07 16:59:33,072 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 732
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 731
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 730
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 729
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 728
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 727
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 726
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 725
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 724
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 723
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 722
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 721
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 720
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 719
+2022-12-07 16:59:33,073 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 718
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 717
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 716
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 715
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 714
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 713
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 712
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 711
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 710
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 709
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 708
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 707
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 706
+2022-12-07 16:59:33,074 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 705
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 704
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 703
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 702
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 701
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 700
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 699
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 698
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 697
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 696
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 695
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 694
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 693
+2022-12-07 16:59:33,075 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 692
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 691
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 690
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 689
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 688
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 687
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 686
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 685
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 684
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 683
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 682
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 681
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 680
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 679
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 678
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 677
+2022-12-07 16:59:33,076 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 676
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 675
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 674
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 673
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 672
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 671
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 670
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 669
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 668
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 667
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 666
+2022-12-07 16:59:33,077 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 665
+2022-12-07 16:59:34,197 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 664
+2022-12-07 16:59:34,197 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 663
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 662
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 661
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 660
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 659
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 658
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 657
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 656
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 655
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 654
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 653
+2022-12-07 16:59:34,198 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 652
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 651
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 650
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 649
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 648
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 647
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 646
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 645
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 644
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 643
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 642
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 641
+2022-12-07 16:59:34,199 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 640
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 639
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 638
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 637
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 636
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 635
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 634
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 633
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 632
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 631
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 630
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 629
+2022-12-07 16:59:34,200 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 628
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 627
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 626
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 625
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 624
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 623
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 622
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 621
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 620
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 619
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 618
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 616
+2022-12-07 16:59:34,201 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 615
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 614
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 613
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 612
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 611
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 610
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 609
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 608
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 607
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 606
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 605
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 604
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 603
+2022-12-07 16:59:34,202 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 602
+2022-12-07 16:59:34,203 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 601
+2022-12-07 16:59:34,203 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 600
+2022-12-07 16:59:34,203 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 599
+2022-12-07 16:59:34,203 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 597
+2022-12-07 16:59:34,203 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 596
+2022-12-07 16:59:34,203 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 595
+2022-12-07 16:59:34,203 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 594
+2022-12-07 16:59:34,203 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 593
+2022-12-07 16:59:34,203 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 592
+2022-12-07 16:59:34,203 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 591
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 590
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 589
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 588
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 587
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 586
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 585
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 584
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 583
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 582
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 581
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 580
+2022-12-07 16:59:34,204 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 579
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 578
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 577
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 575
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 574
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 573
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 572
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 570
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 569
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 568
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 567
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 566
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 565
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 564
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 563
+2022-12-07 16:59:34,205 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 562
+2022-12-07 16:59:34,206 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 561
+2022-12-07 16:59:35,357 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 560
+2022-12-07 16:59:35,357 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 559
+2022-12-07 16:59:35,357 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 558
+2022-12-07 16:59:35,357 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 557
+2022-12-07 16:59:35,357 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 555
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 554
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 553
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 552
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 551
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 550
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 549
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 548
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 547
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 546
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 545
+2022-12-07 16:59:35,358 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 544
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 543
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 542
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 541
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 540
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 539
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 538
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 537
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 536
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 535
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 534
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 533
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 532
+2022-12-07 16:59:35,359 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 531
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 530
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 529
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 526
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 525
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 524
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 523
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 522
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 521
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 520
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 519
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 518
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 517
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 516
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 514
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 513
+2022-12-07 16:59:35,360 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 512
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 511
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 510
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 509
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 508
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 507
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 506
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 505
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 504
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 503
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 502
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 501
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 500
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 499
+2022-12-07 16:59:35,361 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 497
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 496
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 495
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 494
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 493
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 492
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 491
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 490
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 489
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 488
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 487
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 486
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 485
+2022-12-07 16:59:35,362 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 484
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 483
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 482
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 481
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 480
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 479
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 478
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 477
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 476
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 475
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 474
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 473
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 472
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 471
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 470
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 469
+2022-12-07 16:59:35,363 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 468
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 467
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 466
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 465
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 464
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 463
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 462
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 461
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 460
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 459
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 458
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 457
+2022-12-07 16:59:35,364 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 456
+2022-12-07 16:59:36,483 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 455
+2022-12-07 16:59:36,483 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 454
+2022-12-07 16:59:36,483 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 453
+2022-12-07 16:59:36,483 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 452
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 451
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 450
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 449
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 448
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 447
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 446
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 445
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 444
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 443
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 442
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 441
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 440
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 439
+2022-12-07 16:59:36,484 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 438
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 437
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 436
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 435
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 434
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 433
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 432
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 431
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 430
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 429
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 428
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 427
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 426
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 425
+2022-12-07 16:59:36,485 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 424
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 423
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 422
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 421
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 420
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 419
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 418
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 417
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 416
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 415
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 414
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 413
+2022-12-07 16:59:36,486 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 412
+2022-12-07 16:59:36,487 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 411
+2022-12-07 16:59:36,487 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 410
+2022-12-07 16:59:36,487 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 409
+2022-12-07 16:59:36,487 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 408
+2022-12-07 16:59:36,487 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 407
+2022-12-07 16:59:36,487 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 406
+2022-12-07 16:59:36,487 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 405
+2022-12-07 16:59:36,487 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 404
+2022-12-07 16:59:36,487 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 403
+2022-12-07 16:59:36,487 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 402
+2022-12-07 16:59:36,488 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 401
+2022-12-07 16:59:36,488 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 400
+2022-12-07 16:59:36,488 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 399
+2022-12-07 16:59:36,488 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 398
+2022-12-07 16:59:36,488 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 397
+2022-12-07 16:59:36,488 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 396
+2022-12-07 16:59:36,488 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 395
+2022-12-07 16:59:36,488 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 394
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 393
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 392
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 391
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 390
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 389
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 388
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 387
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 386
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 385
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 384
+2022-12-07 16:59:36,489 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 383
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 382
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 381
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 380
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 379
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 378
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 377
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 376
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 375
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 374
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 373
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 372
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 371
+2022-12-07 16:59:36,490 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 370
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 369
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 368
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 367
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 366
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 365
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 364
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 363
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 362
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 361
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 360
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 359
+2022-12-07 16:59:36,491 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 358
+2022-12-07 16:59:36,492 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 357
+2022-12-07 16:59:36,492 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 356
+2022-12-07 16:59:37,696 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 355
+2022-12-07 16:59:37,696 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 354
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 353
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 352
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 351
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 350
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 349
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 348
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 347
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 346
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 345
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 344
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 343
+2022-12-07 16:59:37,697 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 342
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 341
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 340
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 339
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 338
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 337
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 336
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 335
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 334
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 333
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 332
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 331
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 330
+2022-12-07 16:59:37,698 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 329
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 328
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 327
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 326
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 325
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 324
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 323
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 322
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 321
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 320
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 319
+2022-12-07 16:59:37,699 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 318
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 317
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 316
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 315
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 314
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 313
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 312
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 311
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 310
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 309
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 308
+2022-12-07 16:59:37,700 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 307
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 306
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 305
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 304
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 303
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 302
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 301
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 300
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 299
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 298
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 297
+2022-12-07 16:59:37,701 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 296
+2022-12-07 16:59:37,702 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 295
+2022-12-07 16:59:37,702 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 294
+2022-12-07 16:59:37,702 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 293
+2022-12-07 16:59:37,702 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 292
+2022-12-07 16:59:37,702 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 291
+2022-12-07 16:59:37,702 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 290
+2022-12-07 16:59:37,702 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 289
+2022-12-07 16:59:37,702 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 288
+2022-12-07 16:59:37,702 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 287
+2022-12-07 16:59:37,702 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 286
+2022-12-07 16:59:37,703 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 285
+2022-12-07 16:59:37,703 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 284
+2022-12-07 16:59:37,703 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 283
+2022-12-07 16:59:37,703 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 282
+2022-12-07 16:59:37,703 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 281
+2022-12-07 16:59:37,703 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 280
+2022-12-07 16:59:37,703 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 279
+2022-12-07 16:59:37,703 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 278
+2022-12-07 16:59:37,703 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 277
+2022-12-07 16:59:37,703 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 276
+2022-12-07 16:59:37,704 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 275
+2022-12-07 16:59:37,704 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 274
+2022-12-07 16:59:37,704 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 273
+2022-12-07 16:59:37,704 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 272
+2022-12-07 16:59:37,704 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 271
+2022-12-07 16:59:37,704 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 270
+2022-12-07 16:59:37,704 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 269
+2022-12-07 16:59:37,704 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 268
+2022-12-07 16:59:37,704 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 267
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 266
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 265
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 264
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 263
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 262
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 261
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 260
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 259
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 258
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 257
+2022-12-07 16:59:37,705 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 256
+2022-12-07 16:59:38,820 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 255
+2022-12-07 16:59:38,820 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 254
+2022-12-07 16:59:38,820 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 253
+2022-12-07 16:59:38,820 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 252
+2022-12-07 16:59:38,820 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 251
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 250
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 249
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 248
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 247
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 246
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 245
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 244
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 243
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 242
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 241
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 240
+2022-12-07 16:59:38,821 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 239
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 238
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 237
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 236
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 235
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 234
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 233
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 232
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 231
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 230
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 229
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 228
+2022-12-07 16:59:38,822 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 227
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 226
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 225
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 224
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 223
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 222
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 221
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 220
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 219
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 218
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 217
+2022-12-07 16:59:38,823 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 216
+2022-12-07 16:59:38,824 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 215
+2022-12-07 16:59:38,824 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 214
+2022-12-07 16:59:38,824 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 213
+2022-12-07 16:59:38,824 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 212
+2022-12-07 16:59:38,824 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 211
+2022-12-07 16:59:38,824 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 210
+2022-12-07 16:59:38,824 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 209
+2022-12-07 16:59:38,824 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 208
+2022-12-07 16:59:38,824 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 207
+2022-12-07 16:59:38,824 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 206
+2022-12-07 16:59:38,825 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 205
+2022-12-07 16:59:38,825 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 204
+2022-12-07 16:59:38,825 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 203
+2022-12-07 16:59:38,825 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 202
+2022-12-07 16:59:38,825 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 201
+2022-12-07 16:59:38,825 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 200
+2022-12-07 16:59:38,825 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 199
+2022-12-07 16:59:38,825 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 198
+2022-12-07 16:59:38,825 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 197
+2022-12-07 16:59:38,825 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 196
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 194
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 193
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 192
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 191
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 190
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 189
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 188
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 187
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 186
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 185
+2022-12-07 16:59:38,826 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 184
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 183
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 182
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 181
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 180
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 179
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 178
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 177
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 176
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 175
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 174
+2022-12-07 16:59:38,827 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 173
+2022-12-07 16:59:38,828 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 172
+2022-12-07 16:59:38,828 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 171
+2022-12-07 16:59:38,828 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 170
+2022-12-07 16:59:38,828 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 169
+2022-12-07 16:59:38,828 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 167
+2022-12-07 16:59:38,828 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 166
+2022-12-07 16:59:38,828 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 165
+2022-12-07 16:59:38,829 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 164
+2022-12-07 16:59:38,829 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 163
+2022-12-07 16:59:38,829 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 162
+2022-12-07 16:59:38,829 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 161
+2022-12-07 16:59:38,829 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 160
+2022-12-07 16:59:38,829 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 159
+2022-12-07 16:59:38,829 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 158
+2022-12-07 16:59:38,829 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 157
+2022-12-07 16:59:38,829 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 156
+2022-12-07 16:59:38,830 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 155
+2022-12-07 16:59:38,830 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 154
+2022-12-07 16:59:39,579 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 153
+2022-12-07 16:59:39,579 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 152
+2022-12-07 16:59:39,579 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 151
+2022-12-07 16:59:39,579 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 150
+2022-12-07 16:59:39,579 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 149
+2022-12-07 16:59:39,579 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 148
+2022-12-07 16:59:39,580 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 147
+2022-12-07 16:59:39,580 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 146
+2022-12-07 16:59:39,580 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 145
+2022-12-07 16:59:39,580 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 144
+2022-12-07 16:59:39,580 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 143
+2022-12-07 16:59:39,580 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 142
+2022-12-07 16:59:39,580 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 141
+2022-12-07 16:59:39,580 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 140
+2022-12-07 16:59:39,580 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 139
+2022-12-07 16:59:39,580 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 138
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 137
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 136
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 135
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 134
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 133
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 132
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 131
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 130
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 129
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 127
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 125
+2022-12-07 16:59:39,581 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 124
+2022-12-07 16:59:39,582 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 123
+2022-12-07 16:59:39,582 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 122
+2022-12-07 16:59:39,582 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 120
+2022-12-07 16:59:39,582 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 119
+2022-12-07 16:59:39,582 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 118
+2022-12-07 16:59:39,582 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 117
+2022-12-07 16:59:39,582 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 116
+2022-12-07 16:59:39,582 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 115
+2022-12-07 16:59:39,582 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 114
+2022-12-07 16:59:39,583 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 113
+2022-12-07 16:59:39,583 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 112
+2022-12-07 16:59:39,583 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 111
+2022-12-07 16:59:39,583 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 109
+2022-12-07 16:59:39,583 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 108
+2022-12-07 16:59:39,583 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 107
+2022-12-07 16:59:39,583 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 106
+2022-12-07 16:59:39,583 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 105
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 104
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 103
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 102
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 99
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 98
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 97
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 96
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 95
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 94
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 93
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 92
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 91
+2022-12-07 16:59:39,584 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 90
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 89
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 88
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 86
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 85
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 84
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 83
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 82
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 78
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 77
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 76
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 75
+2022-12-07 16:59:39,585 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 73
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 72
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 71
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 70
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 69
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 68
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 67
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 66
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 65
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 64
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 63
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 62
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 61
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 60
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 59
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 58
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 57
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 56
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 55
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 54
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 53
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 52
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 51
+2022-12-07 16:59:39,586 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 50
+2022-12-07 16:59:39,587 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 49
+2022-12-07 16:59:39,587 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 48
+2022-12-07 16:59:39,587 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 47
+2022-12-07 16:59:39,587 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 46
+2022-12-07 16:59:39,587 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 45
+2022-12-07 16:59:39,587 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 44
+2022-12-07 16:59:39,587 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 43
+2022-12-07 16:59:39,878 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 42
+2022-12-07 16:59:39,878 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 41
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 40
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 39
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 38
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 37
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 36
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 35
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 34
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 33
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 32
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 31
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 30
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 29
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 27
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 26
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 25
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 24
+2022-12-07 16:59:39,879 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 23
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 22
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 21
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 20
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 19
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 18
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 17
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 16
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 15
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 14
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 13
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 12
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 11
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 10
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 9
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 8
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 7
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 6
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 5
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 4
+2022-12-07 16:59:39,880 - DEBUG - tg_posts_crawler.parse_post (83)
+Парсинг поста 1
+2022-12-07 16:59:39,984 - INFO - tg_posts_crawler.start (120)
+Собрано 1014 новых постов
+2022-12-07 16:59:39,984 - INFO - tg_posts_crawler.save_data (58)
+Выполняется сохранение данных
+2022-12-07 16:59:40,012 - INFO - tg_posts_crawler.save_data (66)
+Сохранено 1014 постов и 205 тегов
