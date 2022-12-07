@@ -58,9 +58,11 @@ jobs:
 
       - name: Commit and push changes.
         run: |
-          mv frontend/build/* data/
-          mv data.json data/data.json
           cd data
+          git rm -rf .
+          git clean -fxd
+          mv ../frontend/build/* .
+          mv ../data.json data.json
           git config --global user.email "github-action@users.noreply.github.com"
           git config --global user.name "GitHub Action"
           git add .
