@@ -12,6 +12,7 @@ env:
   PYROGRAM_SESSION_STRING: ${{ secrets.PyrogramSession }}
   CHANNEL_ID: ${{ secrets.ChannelID }}
   REFRESH_DATA: ${{ inputs.refresh_data }}
+  CI: false
 
 jobs:
   crawl_posts:
@@ -21,23 +22,47 @@ jobs:
     steps:
       - name: Clone.
         uses: actions/checkout@v3
+      - name: Clone data.
+        uses: actions/checkout@v3
+        with:
+          ref: pages
+          path: data
 
       - name: Setup Python.
         uses: actions/setup-python@v4
         with:
           python-version: 3.11
 
-      - name: Install dependencies.
+      - name: Setup Node.
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: 'npm'
+          cache-dependency-path: frontend/package-lock.json
+
+      - name: Install Python dependencies.
         run: |
           pip install -r app/requirements.txt
 
       - name: Generate posts datastructure.
         run: |
+          mv data/data.json data.json
           python app/tg_posts_crawler.py
+
+      - name: Build frontend.
+        run: |
+          cp data.json frontend/src/data.json
+          cd frontend
+          npm install
+          npm run build
 
       - name: Commit and push changes.
         run: |
-          git checkout data
+          mv frontend/build/* data/
+          mv data.json data/data.json
+          cd data
+          git config --global user.email "github-action@users.noreply.github.com"
+          git config --global user.name "GitHub Action"
           git add .
           git commit -am "Update data"
-          git push
+          git push --force
